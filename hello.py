@@ -9,3 +9,5 @@ if tot=="yes":
     print("Yes Iam Thirsty")
 elif(tot=="no"):
     print("No Iam Not Thirsty")
+
+print("Dummy")
